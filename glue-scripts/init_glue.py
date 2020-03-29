@@ -19,5 +19,4 @@ def init():
 glueContext, spark = init()
 
 print(glueContext)
-print(spark)
 
